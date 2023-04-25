@@ -1,0 +1,34 @@
+1. Data types
+2. Iuput/Output
+3. if-else
+4. loop
+5. array
+6. string
+7. function
+8. search -> linear, binary
+9. sort -> selection, bubble
+
+
+To be covered:
+1. pointer
+2. bitwise operation/bit manipulation
+3. struct, union, define
+4. c++
+5. c++ stl
+.............................................................
+6. opp -> java
+7. Stack, queue
+8. linked list
+9. tree
+10. binary tree, binary search tree(BST)
+11. Heap
+12. Hashing
+13. Graph
+14. Programming techniques: 
+	a. Brute force
+	b. Greedy
+	c. Divide and conquer
+	4. Backtracking
+	5. Dynamic programming
+	6. Two pointers
+	7. sliding window

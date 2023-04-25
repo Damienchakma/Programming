@@ -1,0 +1,19 @@
+1. Data types
+2. Iuput/Output
+3. if-else
+4. loop
+5. array
+6. string
+7. function
+8. search -> linear, binary
+9. sort -> selection, bubble
+
+
+To be covered:
+1. pointer
+2. bitwise operation/bit manipulation
+3. struct, union, define
+4. c++
+5. c++ stl
+.............................................................
+6. opp -> java

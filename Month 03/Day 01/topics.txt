@@ -1,0 +1,7 @@
+1. Data types
+2. Iuput/Output
+3. if-else
+4. loop
+5. array
+6. string
+7. function
