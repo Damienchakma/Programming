@@ -6,6 +6,7 @@ int main() {
     cin.tie(NULL);
     
     list<int> l;
+    
     l.emplace_front(5);
     l.emplace_front(6);
     l.emplace_front(9);

@@ -1,0 +1,30 @@
+Programming fundamentals:
+-------------------------
+Braching -> if-else
+Loop
+Array
+Recursion
+Data types
+Bit Manipulation
+Sorting -> bubble, insertion, selection
+Searching -> linear, binary
+Function
+
+Data Structures:
+----------------
+Stack
+Queue
+Tree
+Binary Tree
+Binary Search tree
+Heap
+Hash Table --> To be
+
+Future Plan:
+-----------
+1. OOP
+2. Database
+    - SQL(Standard Query Language) -> Table based -> MySql, Oracle, PostgreSQL, Ms SQL, SQLite
+    - NoSql -> Document based (Key-value pair) -> MongoDB, Maria DB
+    - Cache Database -> Redis
+    - Graph Database
