@@ -1,0 +1,14 @@
+1. Merge sort -> c++
+2. OOP -> a) packages
+	  b) static
+3. Problem solving
+
+-------------------------
+Techniques:
+
+1. Greedy
+2. Dynamic programming
+3. Backtracking
+4. Divide and Conquer -> Merge sort, Binary search
+
+------------------------------
