@@ -1,0 +1,14 @@
+-> Four pillars of OOP:
+    1. Inheritance - done
+    2. Polymorphism
+        a) Overloading - done
+        b) Overriding - done
+        c) final, static - done
+    3. Encapsulation - done
+    4. Abstraction - done
+    
+-> Access control
+    1. public
+    2. private
+    3. protected
+    4. default

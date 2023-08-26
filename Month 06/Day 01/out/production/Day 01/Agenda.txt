@@ -1,0 +1,12 @@
+1. Abstract Class - done
+    a) abstract class - done
+    b) variable - done
+    c) constructor - done
+    d) static method in abstract class - done
+    e) normal method in abstract class - done
+    f) final - done
+2. Interface
+    a) interface
+    b) separate classes for interfaces
+    c) extension of interfaces
+    d) nested interface

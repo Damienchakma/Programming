@@ -1,0 +1,13 @@
+1. package - done
+2. import - done
+3. static keyword - done
+4. static variable - done
+5. static method - done
+6. static in non-static -> possible - done
+7. non-static in static -> impossible - done
+8. static in static -> possible - done
+9. non-static in non-static - possible - done
+10. this in static -> impossible - done
+11. initialization of static variables - done
+12. inner class
+13. singleton class

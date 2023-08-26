@@ -1,0 +1,12 @@
+1. C
+2. C++
+3. Java -> OOP
+4. Data structures
+5. Algorithm
+	Techniques:
+		a. Greedy
+		b. Dynamic Programming
+		c. Divide and Conquer
+		d. Backtracking
+		e. Meet in the Middle
+		f. Bitsmasking

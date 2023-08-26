@@ -1,0 +1,16 @@
+1. Inner class - done
+2. singleton class - done
+
+3. OOP -> a) Inheritance
+          b) Polymorphism
+          c) Encapsulation
+          d) Abstraction
+
+4. Inheritance
+5. super keyword
+6. private keyword
+7. Inheritance -> a) Single inheritance
+                  b) Multi-level inheritance
+                  c) Multiple inheritance
+                  d) Hierarchical inheritance
+                  e) Hybrid inheritance

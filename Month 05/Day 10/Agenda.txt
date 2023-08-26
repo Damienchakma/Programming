@@ -1,0 +1,15 @@
+1. Inheritance
+    a) Basic idea - done
+    b) private keyword - done
+    c) super keyword - done
+    d) Different kind of inheritance
+        1) Single - done
+        2) Multi-level - done
+        3) Multiple - done
+        4) Hierarchical - done
+        5) Hybrid - done
+2. Polymorphism
+    a) Overloading
+    b) Overriding
+    c) final
+    d) static
